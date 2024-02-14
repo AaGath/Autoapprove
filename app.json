@@ -7,8 +7,8 @@
         "Pyrogram "
     ],
     
-    "repository": "https://github.com/ImDenuwan/Auto-Approve-Bot",
-    "logo":"https://telegra.ph/file/a782e3bbbe40df8a4bb67.jpg",   
+    "repository": "https://github.com/AaGath/Autoapprove",
+    "logo":"https://telegra.ph/file/653bd80ca5cc634b8f369.jpg",   
     
     "env": {
     "API_ID": {
